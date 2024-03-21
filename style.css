@@ -1,0 +1,17 @@
+*{
+    background-color: plum;
+}
+
+.header{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace, serif;
+    color: darkgreen;
+    text-decoration: underline dimgray wavy 3px;
+}
+.lasagna,
+.mintchicken{
+    font-size: large;
+    font-weight: bold;
+    color: brown;
+
+}
